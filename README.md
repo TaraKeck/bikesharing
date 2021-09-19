@@ -23,6 +23,12 @@ By Gender:
 
 - The number of bike trips for all riders and genders for reach hour of day of the week:
 
+![image](https://user-images.githubusercontent.com/85530690/133928782-e29a07a8-d856-4fde-ab25-b708ebfe30c4.png)
+
+- The number of bike trips for each type of under gender for each day of the week"
+
+![image](https://user-images.githubusercontent.com/85530690/133928822-2f208be5-9b3d-4d36-ade7-09e3840f4349.png)
+
 
 ## Summary
 
