@@ -10,6 +10,11 @@ In order to convince investors that bike-sharing program in Des Moines is a soli
   - Show the number of bike trips for each type of user and gender for each day of the week.
 
 ## Results
+Used Pandaas to change the "tripduration" column from an integet to a datetime datatype, here is an image of this update:
+
+![image](https://user-images.githubusercontent.com/85530690/133945818-e4ff7902-2cb7-47c4-b37d-d73b31813956.png)
+
+
 The visualizations created resulted in the following line graphs and heat maps:
 
 - The length of time that bikes are checked out for all riders and genders:
@@ -25,13 +30,15 @@ By Gender:
 
 ![image](https://user-images.githubusercontent.com/85530690/133928782-e29a07a8-d856-4fde-ab25-b708ebfe30c4.png)
 
-- The number of bike trips for each type of under gender for each day of the week"
+- The number of bike trips for each type of under gender for each day of the week:
 
 ![image](https://user-images.githubusercontent.com/85530690/133928822-2f208be5-9b3d-4d36-ade7-09e3840f4349.png)
 
 
 ## Summary
 
-Review all data and charts, it is highly recommeneded to expand the market into Des Moines for bike-sharing. 
+Review all data and the line charts as well as heat maps, it is highly recommeneded to expand the market into Des Moines for bike-sharing. 
+
+
 Addiional charts and overall view of all data gathering can be found here:
 https://public.tableau.com/app/profile/tara.keckeisen/viz/NYCCitibikeChallenge_16317599320650/Story1?publish=yes
