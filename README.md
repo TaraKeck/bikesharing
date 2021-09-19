@@ -32,3 +32,6 @@ By Gender:
 
 ## Summary
 
+Review all data and charts, it is highly recommeneded to expand the market into Des Moines for bike-sharing. 
+Addiional charts and overall view of all data gathering can be found here:
+https://public.tableau.com/app/profile/tara.keckeisen/viz/NYCCitibikeChallenge_16317599320650/Story1?publish=yes
