@@ -37,8 +37,11 @@ By Gender:
 
 ## Summary
 
-After reviewing all data and the line charts as well as heat maps, it is highly recommeneded to expand the market into Des Moines for bike-sharing. 
+After reviewing all data and the line charts as well as heat maps, it is highly recommeneded to expand the market into Des Moines for bike-sharing. The data was reviewed with the NYC Citibike Data.   The total number of riders that data was captured was:  2,344,224 riders.  In the total number of riders it was broken down by gender to get a better understanding of the demographic.   Bikesharing is a major source of transportation for commmuters since most data shows that Male/Female riders utlisize the service Monday through Friday during commuter peak hours (8am-9am, 5pm-6pm).
 
+I would suggest to perform additional analysis to ensure that it's feasable to expand as there may be overhead needed in order to operate the market.  Currently there is a total trip ride of 5 minutes, I would recommend data on repairs to seee how much wear and tear on the bikes and repair costs would be crucial to review.  This would be beneficial in understanding operations side of the business.
+
+From a marketing standpoint, I would suggest to do a deeper dive into the age ranges of the riders.    It would be beneficial to understand if the riders are high school, college students, or professionals.  There may be opportunities to market in areas that have a lot of potential since there may not be a lot of businesses in the Des Moines area. 
 
 Link to Dashboard found here:
 https://public.tableau.com/app/profile/tara.keckeisen/viz/NYCCitibikeChallenge_16317599320650/Story1?publish=yes
